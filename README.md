@@ -1,15 +1,15 @@
 # About-Us
 Here are some introductory part about rebuild
-<h1 align="center">Hi 👋, I'm Rebuildaio</h1>
+<h1 align="center">Hi 👋,<br> This is Rebuildaio</h1>
 <h3 align="center">Helping you in building amazing projects, simply by reading.</h3>
 
 <p align="left"> <a href="https://twitter.com/rebuildaio" target="blank"><img src="https://img.shields.io/twitter/follow/rebuildaio?logo=twitter&style=for-the-badge" alt="rebuildaio" /></a> </p>
 
-- 🔭 I’m currently working on **Beginner level projects**
+- 🔭 I’m currently focusing on **Beginner to Advanced level project guide with ideas/assets**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rebuildaio](https://github.com/rebuildaio)
+- 👨‍💻 All of our projects are available at [https://github.com/rebuildaio](https://github.com/rebuildaio)
 
-- 📫 How to reach me **rebuildspport@gmail.com**
+- 📫 You can reach me through this email or you can DM us on our social sites **rebuildspport@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
